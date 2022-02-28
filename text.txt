@@ -1,2 +1,2 @@
 simple text file
-deleted and added a line
+deleted deleted and added line
